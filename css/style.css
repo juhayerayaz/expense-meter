@@ -1,0 +1,24 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins&display=swap");
+
+* {
+  font-family: "Poppins", sans-serif;
+}
+.calculations {
+  padding-top: 30px;
+  padding-bottom: 100px;
+}
+.input-box {
+  width: 100px;
+}
+#wrong-input {
+  display: none;
+}
+#negative-number-error {
+  display: none;
+}
+#expense-error {
+  display: none;
+}
+#insufficient-balance-error {
+  display: none;
+}
